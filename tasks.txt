@@ -1,0 +1,10 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 08 Feb 2023, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+erec, Kindly see check, Understanding hwo to use file in python, 05 Dec 2022, 05 Dec 2022, No
+tiyu, polygon submit, as i went to the house, 13 Dec 2022, 15 Dec 2022, No
+erec, psossoos, djdjjdjjjjjjjjjjjjjjjjjjj, 13 Dec 2022, 15 Dec 2022, No
+admin, popolo, ksssssssssssssssssssssssssssssss, 06 Feb 2023, 12 Feb 2023, Yes
+admin, enenen, peter is here, 06 Feb 2023, 23 Feb 2023, Yes
+admin, Tititl sloan gwas thewe, las ska hdsa ksfdhfd askhdsa ajjkfdsk, 06 Feb 2023, 22 Feb 2023, Yes
+Pete, Standing on the rock, kilode nau, 08 Feb 2023, 09 Feb 2023, NoPete, has been, papaapamxx, 08 Feb 2023, 12 Feb 2023, No
+admin, bebe, nnsnsns, 08 Feb 2023, 22 Feb 2023, Yes
